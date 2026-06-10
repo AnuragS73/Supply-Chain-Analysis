@@ -4,6 +4,10 @@ venv/
 .venv/
 env/
 
+# My files
+data/df2.csv
+data/Analysis of Dataset.xlsx
+
 # Python cache
 __pycache__/
 *.pyc
